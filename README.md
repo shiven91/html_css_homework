@@ -3,7 +3,7 @@
 ### Created a visualization dashboard website for the analysis of weather in different cities of the world across the globe.
 
 
-![myimage-alt-tag]()
+![myimage-alt-tag](https://github.com/shiven91/html_css_homework/blob/master/Dashboard.png)
 
 
 
